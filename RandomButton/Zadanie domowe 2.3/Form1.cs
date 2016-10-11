@@ -21,10 +21,8 @@ namespace Zadanie_domowe_2._3
         {
             
             var rnd = new Random();
-            var x = rnd.Next();
-            var y = rnd.Next();
-            x = r.Next();
-            y = y.Next();
+            var x = rnd.Next(0, 100);
+            var y = rnd.Next(0, 100);
             button1.Location = new Point(x, y);
            
         }
