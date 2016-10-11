@@ -1,0 +1,9 @@
+D:\studia\С#\Zadania domowe 1\Zadanie domowe 2.3\Zadanie domowe 2.3\bin\Debug\Zadanie domowe 2.3.exe.config
+D:\studia\С#\Zadania domowe 1\Zadanie domowe 2.3\Zadanie domowe 2.3\obj\Debug\Zadanie domowe 2.3.csprojResolveAssemblyReference.cache
+D:\studia\С#\Zadania domowe 1\Zadanie domowe 2.3\Zadanie domowe 2.3\obj\Debug\Zadanie_domowe_2._3.Form1.resources
+D:\studia\С#\Zadania domowe 1\Zadanie domowe 2.3\Zadanie domowe 2.3\obj\Debug\Zadanie_domowe_2._3.Properties.Resources.resources
+D:\studia\С#\Zadania domowe 1\Zadanie domowe 2.3\Zadanie domowe 2.3\obj\Debug\Zadanie domowe 2.3.csproj.GenerateResource.Cache
+D:\studia\С#\Zadania domowe 1\Zadanie domowe 2.3\Zadanie domowe 2.3\bin\Debug\Zadanie domowe 2.3.exe
+D:\studia\С#\Zadania domowe 1\Zadanie domowe 2.3\Zadanie domowe 2.3\bin\Debug\Zadanie domowe 2.3.pdb
+D:\studia\С#\Zadania domowe 1\Zadanie domowe 2.3\Zadanie domowe 2.3\obj\Debug\Zadanie domowe 2.3.exe
+D:\studia\С#\Zadania domowe 1\Zadanie domowe 2.3\Zadanie domowe 2.3\obj\Debug\Zadanie domowe 2.3.pdb
